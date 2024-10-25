@@ -15,7 +15,6 @@ I am a 3rd-year Computer Science and Engineering student in RGUKT, with an inter
 <li>Tools</b>: Git, GitHub, Visual Studio Code, LeetCode</li>
 <li>Databases</b>: MySQL, SQLite, MongoDB</li>
 </ul>
-
 📫 <b>How to Reach Me</b>
 <ul>
 <li>LinkedIn: www.linkedin.com/in/bhuvana-kagita-b4b3842ab</li>

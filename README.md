@@ -1,12 +1,13 @@
 <b>Hello, I'm Kagita Bhuvana 👋</b>
 <hr>
 I am a 3rd-year Computer Science and Engineering student in RGUKT, with an interest in pursuing web development and application thereof. I am searching for internship and job opportunities to learn more and to work on new and exciting projects.
-
+<br>
 <b>About Me</b><br>
-<b>.</b>I’m currently working on personal projects to enhance my coding skills and build a strong portfolio.<br>
-<b>.</b>I’m learning HTML, CSS, Python, SQL, JavaScript, nodeJS, expressJS, ReactJS.<br>
-<b>.</b>I’m looking to collaborate on projects involving web development.
-
+<ul>
+<li>I’m currently working on personal projects to enhance my coding skills and build a strong portfolio.</li>
+<li>I’m learning HTML, CSS, Python, SQL, JavaScript, nodeJS, expressJS, ReactJS.</li>
+<li>I’m looking to collaborate on projects involving web development.</li>
+</ul>
 💻 <b>Technologies & Tools</b><br>
 <b>. Languages</b>: JavaScript, Python<br>
 <b>. Web Technologies</b> : HTML, CSS, JavaScript, Node.js, React.js<br>

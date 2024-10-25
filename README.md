@@ -11,14 +11,14 @@ I am a 3rd-year Computer Science and Engineering student in RGUKT, with an inter
 💻 <b>Technologies & Tools</b>
 <ul>
 <li><b>Languages</b>: JavaScript, Python</li>
-<li>Web Technologies</b> : HTML, CSS, JavaScript, Node.js, React.js</li>
-<li>Tools</b>: Git, GitHub, Visual Studio Code, LeetCode</li>
-<li>Databases</b>: MySQL, SQLite, MongoDB</li>
+<li><b>Web Technologies</b> : HTML, CSS, JavaScript, Node.js, React.js</li>
+<li><b>Tools</b>: Git, GitHub, Visual Studio Code, LeetCode</li>
+<li><b>Databases</b>: MySQL, SQLite, MongoDB</li>
 </ul>
 📫 <b>How to Reach Me</b>
 <ul>
 <li>LinkedIn: www.linkedin.com/in/bhuvana-kagita-b4b3842ab</li>
-<li>Email: kagithabhuvana5@gmail.com</li>
+<li>Email: kagithabhuvana5@gmail.com </li>
 <li>Portfolio: Not Yet</li>
 </ul>
 <hr>
